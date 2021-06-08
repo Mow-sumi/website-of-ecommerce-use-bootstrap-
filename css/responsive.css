@@ -1,0 +1,62 @@
+
+/* <----------menu section responsive-------> */
+
+@media only screen and (max-width:980px){
+    .top-nav-bar{
+        height: 118px;
+        border-radius: 0;
+    }
+    .search-box{
+        width: 100%;
+    }
+
+    .menu-bar{
+        width: 100%;
+    }
+
+    .menu-bar ul{
+        margin: 10px 0;
+        width: 100%;
+    }
+    .menu-bar ul li{
+        height: 57px;
+        width: 100%;
+    }
+}
+
+
+/* --------side-bar section----- */
+
+@media only screen and (max-width:980px){
+    .side-menu{
+        width: 34%;
+        z-index: 20;
+        top: 133px;
+        position: fixed;
+        font-size: 12px;
+        background: #f1f3f4;
+        display: none;
+    }
+    .side-menu ul li ul{
+        top: 133px;
+
+    }
+    .side-menu ul li:hover ul{
+    margin-left: 31%;
+    } 
+
+    #menu-btn{
+        display:block;
+    }
+}
+
+
+/* --------slider section----- */
+
+@media only screen and (max-width:980px){
+    .slider{
+        width: 100%;
+        margin-left: 0;
+    }
+
+}

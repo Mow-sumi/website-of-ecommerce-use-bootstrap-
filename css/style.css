@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+
 }
 
 
@@ -413,4 +414,17 @@ body{
 .product-description hr {
     margin-bottom: 50px;
     
+}
+
+
+/* ---------useful links pages------- */
+
+.project-link{
+    text-align: center;
+    margin-top: 15px;
+    color:#fff;
+}
+
+.page-color{
+    background-color:black;
 }

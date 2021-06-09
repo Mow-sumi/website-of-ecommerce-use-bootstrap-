@@ -428,3 +428,7 @@ body{
 .page-color{
     background-color:black;
 }
+
+.project-link a h2{
+    margin-top: 10px;
+}
